@@ -49149,6 +49149,15 @@
       "name" : "Litvinov mesto"
    },
    {
+      "ds100" : "XILI",
+      "eva" : 8300157,
+      "latlong" : [
+         43.553986,
+         10.336624
+      ],
+      "name" : "Livorno Centrale"
+   },
+   {
       "ds100" : "XBLJ",
       "eva" : 8800235,
       "latlong" : [
