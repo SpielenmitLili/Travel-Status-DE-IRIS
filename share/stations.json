@@ -270,6 +270,15 @@
       "name" : "Adelsheim Ost"
    },
    {
+      "ds100" : "AADF",
+      "eva" : 8000426,
+      "latlong" : [
+         53.282455,
+         10.45432
+      ],
+      "name" : "Adendorf"
+   },
+   {
       "ds100" : "DADO",
       "eva" : 8011002,
       "latlong" : [
@@ -12969,6 +12978,15 @@
       "name" : "Brvany"
    },
    {
+      "ds100" : "XPBOK",
+      "eva" : 5100671,
+      "latlong" : [
+         49.986397,
+         20.610296
+      ],
+      "name" : "Brzesko Okocim"
+   },
+   {
       "ds100" : "RBRN",
       "eva" : 8001119,
       "latlong" : [
@@ -13813,6 +13831,15 @@
          18.014158
       ],
       "name" : "Bylnice"
+   },
+   {
+      "ds100" : "XTBS",
+      "eva" : 5400663,
+      "latlong" : [
+         50.305695,
+         14.603911
+      ],
+      "name" : "Bysice"
    },
    {
       "ds100" : "OPBYI",
@@ -15579,6 +15606,15 @@
       "name" : "Chotyne"
    },
    {
+      "ds100" : "XTCTN",
+      "eva" : 5401287,
+      "latlong" : [
+         50.141876,
+         13.663334
+      ],
+      "name" : "Chrastany"
+   },
+   {
       "ds100" : "XTCR",
       "eva" : 5401284,
       "latlong" : [
@@ -15604,6 +15640,15 @@
          14.523655
       ],
       "name" : "Chribska"
+   },
+   {
+      "ds100" : "OPCRT",
+      "eva" : 5100810,
+      "latlong" : [
+         51.35432,
+         16.181213
+      ],
+      "name" : "Chrostnik"
    },
    {
       "ds100" : "OPCSR",
@@ -16513,6 +16558,15 @@
          19.185452
       ],
       "name" : "Dabrowa Gornicza"
+   },
+   {
+      "ds100" : "OPD",
+      "eva" : 5100098,
+      "latlong" : [
+         50.366478,
+         19.26444
+      ],
+      "name" : "Dabrowa Gornicza Zabkowice"
    },
    {
       "ds100" : "MDA",
@@ -29385,6 +29439,15 @@
       "name" : "Gorinchem"
    },
    {
+      "ds100" : "OPGZL",
+      "eva" : 5101325,
+      "latlong" : [
+         51.327938,
+         16.181213
+      ],
+      "name" : "Gorzelin"
+   },
+   {
       "ds100" : "XPGW",
       "eva" : 5100014,
       "latlong" : [
@@ -29806,6 +29869,15 @@
          9.420533
       ],
       "name" : "Grebenstein"
+   },
+   {
+      "ds100" : "OPGEB",
+      "eva" : 5101130,
+      "latlong" : [
+         51.595135,
+         16.183163
+      ],
+      "name" : "Grebocice"
    },
    {
       "ds100" : "XDGB",
@@ -39654,6 +39726,15 @@
       "name" : "Jarrenwisch"
    },
    {
+      "ds100" : "XPJKL",
+      "eva" : 5101432,
+      "latlong" : [
+         51.214943,
+         16.312616
+      ],
+      "name" : "Jaskowice Legnickie"
+   },
+   {
       "ds100" : "WJAS",
       "eva" : 8011951,
       "latlong" : [
@@ -39670,6 +39751,15 @@
          13.937671
       ],
       "name" : "Jatznick"
+   },
+   {
+      "ds100" : "XPJS",
+      "eva" : 5100213,
+      "latlong" : [
+         50.24633,
+         19.297422
+      ],
+      "name" : "Jaworzno Szczakowa"
    },
    {
       "ds100" : "OPJW",
@@ -43686,6 +43776,15 @@
       "name" : "Kozla Kozuchowska"
    },
    {
+      "ds100" : "PPKLE",
+      "eva" : 5101607,
+      "latlong" : [
+         51.450954,
+         16.232765
+      ],
+      "name" : "Kozlice"
+   },
+   {
       "ds100" : "ONKR",
       "eva" : 8400367,
       "latlong" : [
@@ -44548,6 +44647,15 @@
          14.188364
       ],
       "name" : "Kunersdorf"
+   },
+   {
+      "ds100" : "PPKUE",
+      "eva" : 5103034,
+      "latlong" : [
+         51.21506,
+         16.262394
+      ],
+      "name" : "Kunice"
    },
    {
       "ds100" : "OTKV",
@@ -48816,6 +48924,12 @@
       "name" : "Limone Confine"
    },
    {
+      "ds100" : "D8700303",
+      "eva" : 8700303,
+      "latlong" : null,
+      "name" : "Limone-Confine"
+   },
+   {
       "ds100" : "LLI",
       "eva" : 8012233,
       "latlong" : [
@@ -49660,6 +49774,15 @@
          16.195838
       ],
       "name" : "Lubin"
+   },
+   {
+      "ds100" : "OPLSA",
+      "eva" : 5100378,
+      "latlong" : [
+         51.40823,
+         16.199047
+      ],
+      "name" : "Lubin Stadion"
    },
    {
       "ds100" : "BLU",
@@ -54969,6 +55092,15 @@
       "name" : "Moyeuvre-Grande"
    },
    {
+      "ds100" : "XPMRO",
+      "eva" : 5102335,
+      "latlong" : [
+         51.18377,
+         16.792435
+      ],
+      "name" : "Mrozow"
+   },
+   {
       "ds100" : "EMUD",
       "eva" : 8004099,
       "latlong" : [
@@ -55246,6 +55378,15 @@
          8.168529
       ],
       "name" : "Mußbach"
+   },
+   {
+      "ds100" : "XPMS",
+      "eva" : 5100175,
+      "latlong" : [
+         50.23779,
+         19.1419
+      ],
+      "name" : "Myslowice"
    },
    {
       "ds100" : "XFMCV",
@@ -62493,6 +62634,15 @@
       "name" : "Opocno u Loun"
    },
    {
+      "ds100" : "XPOPP",
+      "eva" : 5104744,
+      "latlong" : [
+         51.35852,
+         20.231707
+      ],
+      "name" : "Opoczno Poludnie"
+   },
+   {
       "ds100" : "XPO",
       "eva" : 5100046,
       "latlong" : [
@@ -66102,6 +66252,15 @@
       "name" : "Pruggern"
    },
    {
+      "ds100" : "XPPZS",
+      "eva" : 5102707,
+      "latlong" : [
+         51.19037,
+         16.665165
+      ],
+      "name" : "Przedmoscie Swiete"
+   },
+   {
       "ds100" : "XPPRZ",
       "eva" : 5100234,
       "latlong" : [
@@ -66316,6 +66475,15 @@
          13.48097
       ],
       "name" : "Putbus"
+   },
+   {
+      "ds100" : "OTPTN",
+      "eva" : 5402591,
+      "latlong" : [
+         49.264008,
+         14.131663
+      ],
+      "name" : "Putim"
    },
    {
       "ds100" : "ONPT",
@@ -66831,6 +66999,15 @@
       "name" : "Radstadt"
    },
    {
+      "ds100" : "XPRYO",
+      "eva" : 5103068,
+      "latlong" : [
+         49.939537,
+         22.82915
+      ],
+      "name" : "Radymno"
+   },
+   {
       "ds100" : "ERAE",
       "eva" : 8004918,
       "latlong" : [
@@ -66910,6 +67087,15 @@
          10.843549
       ],
       "name" : "Raitersaich"
+   },
+   {
+      "ds100" : "XTR",
+      "eva" : 5402625,
+      "latlong" : [
+         50.099022,
+         13.73629
+      ],
+      "name" : "Rakovnik"
    },
    {
       "ds100" : "WRAK",
@@ -67126,6 +67312,15 @@
          6.963368
       ],
       "name" : "Rastpfuhl Malstatt, Saarbrücken"
+   },
+   {
+      "ds100" : "OPRSZ",
+      "eva" : 5103168,
+      "latlong" : [
+         51.301483,
+         16.181662
+      ],
+      "name" : "Raszowka"
    },
    {
       "ds100" : "D366210",
@@ -69675,6 +69870,15 @@
       "name" : "Roosendaal"
    },
    {
+      "ds100" : "XPROP",
+      "eva" : 5103157,
+      "latlong" : [
+         50.078583,
+         21.582886
+      ],
+      "name" : "Ropczyce"
+   },
+   {
       "ds100" : "XARP",
       "eva" : 8101448,
       "latlong" : [
@@ -70377,6 +70581,24 @@
       "name" : "Rudersberg-Oberndorf"
    },
    {
+      "ds100" : "OPRGD",
+      "eva" : 5100206,
+      "latlong" : [
+         51.53159,
+         16.280329
+      ],
+      "name" : "Rudna Gwizdanow"
+   },
+   {
+      "ds100" : "XPRUM",
+      "eva" : 5103121,
+      "latlong" : [
+         51.5055,
+         16.269684
+      ],
+      "name" : "Rudna Miasto"
+   },
+   {
       "ds100" : "D142020",
       "eva" : 142020,
       "latlong" : [
@@ -70656,6 +70878,15 @@
       "name" : "Rychnov u Jablonec nad Nisou"
    },
    {
+      "ds100" : "PPRCE",
+      "eva" : 5103218,
+      "latlong" : [
+         51.47304,
+         16.227533
+      ],
+      "name" : "Rynarcice"
+   },
+   {
       "ds100" : "XTRTB",
       "eva" : 5402736,
       "latlong" : [
@@ -70681,6 +70912,15 @@
          14.82519
       ],
       "name" : "Rzepin Miasto"
+   },
+   {
+      "ds100" : "OPRZE",
+      "eva" : 5103231,
+      "latlong" : [
+         51.249634,
+         16.165913
+      ],
+      "name" : "Rzeszotary"
    },
    {
       "ds100" : "XPRZ",
@@ -73689,6 +73929,15 @@
       "name" : "Schwerin Hbf"
    },
    {
+      "ds100" : "WSIP",
+      "eva" : 8017239,
+      "latlong" : [
+         53.57526,
+         11.431519
+      ],
+      "name" : "Schwerin Industriepark"
+   },
+   {
       "ds100" : "WSMI",
       "eva" : 8012940,
       "latlong" : [
@@ -74407,6 +74656,15 @@
          16.069827
       ],
       "name" : "Sedzislaw"
+   },
+   {
+      "ds100" : "XPSMI",
+      "eva" : 5103349,
+      "latlong" : [
+         50.075283,
+         21.6947
+      ],
+      "name" : "Sedziszow Malopolski"
    },
    {
       "ds100" : "USE",
@@ -76495,6 +76753,15 @@
          14.584486
       ],
       "name" : "Srni u Ceske Lipy"
+   },
+   {
+      "ds100" : "XPSRS",
+      "eva" : 5103571,
+      "latlong" : [
+         51.18954,
+         16.605665
+      ],
+      "name" : "Sroda Slaska"
    },
    {
       "ds100" : "MSAB",
@@ -79332,6 +79599,15 @@
       "name" : "Szczecin Gumience"
    },
    {
+      "ds100" : "XPSZK",
+      "eva" : 5103335,
+      "latlong" : [
+         51.215088,
+         16.351423
+      ],
+      "name" : "Szczedrzykowice"
+   },
+   {
       "ds100" : "XMSG",
       "eva" : 5500029,
       "latlong" : [
@@ -80698,6 +80974,15 @@
          9.258234
       ],
       "name" : "Tinglev st"
+   },
+   {
+      "ds100" : "XTTC",
+      "eva" : 5403129,
+      "latlong" : [
+         50.26747,
+         14.556682
+      ],
+      "name" : "Tisice"
    },
    {
       "ds100" : "XATI",
@@ -89034,6 +89319,15 @@
       "name" : "Wjasma"
    },
    {
+      "ds100" : "XPWLP",
+      "eva" : 5104660,
+      "latlong" : [
+         50.85811,
+         19.947
+      ],
+      "name" : "Wloszczowa Polnoc"
+   },
+   {
       "ds100" : "XPWOD",
       "eva" : 5104095,
       "latlong" : [
@@ -89466,6 +89760,15 @@
       "name" : "Wroclaw Lesnica"
    },
    {
+      "ds100" : "XPWRM",
+      "eva" : 5104130,
+      "latlong" : [
+         51.111603,
+         16.974096
+      ],
+      "name" : "Wroclaw Muchobor"
+   },
+   {
       "ds100" : "XPWRD",
       "eva" : 5104127,
       "latlong" : [
@@ -89473,6 +89776,15 @@
          16.954394
       ],
       "name" : "Wroclaw Nowy Dwor"
+   },
+   {
+      "ds100" : "XPWRE",
+      "eva" : 5104138,
+      "latlong" : [
+         51.12631,
+         16.915785
+      ],
+      "name" : "Wroclaw Zerniki"
    },
    {
       "ds100" : "LWU",
