@@ -48924,12 +48924,6 @@
       "name" : "Limone Confine"
    },
    {
-      "ds100" : "D8700303",
-      "eva" : 8700303,
-      "latlong" : null,
-      "name" : "Limone-Confine"
-   },
-   {
       "ds100" : "LLI",
       "eva" : 8012233,
       "latlong" : [
@@ -52321,12 +52315,6 @@
          8.403853
       ],
       "name" : "Marktplatz (Pyramide U), Karlsruhe"
-   },
-   {
-      "ds100" : "RKMA",
-      "eva" : 371851,
-      "latlong" : null,
-      "name" : "Marktplatz, Karlsruhe"
    },
    {
       "ds100" : "RKMAK",
