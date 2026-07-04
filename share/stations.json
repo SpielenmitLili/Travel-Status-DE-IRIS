@@ -6441,7 +6441,7 @@
          49.594899,
          8.992856
       ],
-      "name" : "Beerfelden Hetzbach"
+      "name" : "Oberzent-Hetzbach"
    },
    {
       "ds100" : "XBBE",
@@ -7017,7 +7017,7 @@
          51.033036,
          8.35001
       ],
-      "name" : "Berghausen"
+      "name" : "Berghausen(b Wittgenstein)"
    },
    {
       "ds100" : "RBGBS",
@@ -13974,7 +13974,7 @@
          49.475929,
          9.317207
       ],
-      "name" : "Bödigheim"
+      "name" : "Bödigheim Gl 1-2, Buchen (Odenwald)"
    },
    {
       "ds100" : "XABC",
@@ -15144,7 +15144,7 @@
          50.787603,
          12.950184
       ],
-      "name" : "Chemnitz Erfenschlag"
+      "name" : "Chemnitz Erfenschlag Mitte"
    },
    {
       "ds100" : "DC  F",
@@ -19959,7 +19959,7 @@
          49.002171,
          8.454308
       ],
-      "name" : "Durlach Untermühlstraße, Karlsruhe"
+      "name" : "Untermühlstraße, Karlsruhe"
    },
    {
       "ds100" : "RKDTU",
@@ -23874,7 +23874,7 @@
          49.010104,
          8.393553
       ],
-      "name" : "Europaplatz (U), Karlsruhe"
+      "name" : "Europaplatz, Karlsruhe"
    },
    {
       "ds100" : "PQKE",
@@ -23883,7 +23883,7 @@
          49.009666,
          8.395026
       ],
-      "name" : "Europaplatz, Karlsruhe"
+      "name" : "Entenfang, Karlsruhe"
    },
    {
       "ds100" : "PQKER",
@@ -34791,7 +34791,7 @@
          49.142656,
          9.213758
       ],
-      "name" : "Heilbronn Neckar-Turm/K.-S.-Pl"
+      "name" : "Heilbronn Neckarturm"
    },
    {
       "ds100" : "TH  U",
@@ -36051,7 +36051,7 @@
          49.539338,
          9.077482
       ],
-      "name" : "Hesseneck Kailbach"
+      "name" : "Oberzent-Kailbach"
    },
    {
       "ds100" : "FSCH",
@@ -36060,7 +36060,7 @@
          49.565924,
          9.067457
       ],
-      "name" : "Hesseneck Schöllenbach"
+      "name" : "Oberzent-Schöllenbach"
    },
    {
       "ds100" : "HHSO",
@@ -37383,7 +37383,7 @@
          50.733908,
          13.57339
       ],
-      "name" : "Holzhau Skilift"
+      "name" : "Holzhau Blockline"
    },
    {
       "ds100" : "EHOZ",
@@ -39867,7 +39867,7 @@
          46.4363246,
          14.0549133
       ],
-      "name" : "Jesenice(SL)"
+      "name" : "Jesenice(SLO)"
    },
    {
       "ds100" : "XTJNY",
@@ -40974,7 +40974,7 @@
          49.008815,
          8.41788
       ],
-      "name" : "Karlsruhe Durlacher Tor/KIT-Campus Süd"
+      "name" : "Karlsruhe Durlacher Tor / KIT-Campus Süd"
    },
    {
       "ds100" : "RKEF",
@@ -41010,7 +41010,7 @@
          49.009554,
          8.404555
       ],
-      "name" : "Karlsruhe Marktplatz (Kaiserstraße)"
+      "name" : "Marktplatz, Karlsruhe"
    },
    {
       "ds100" : "RKMAP",
@@ -41019,7 +41019,7 @@
          49.009083,
          8.403826
       ],
-      "name" : "Karlsruhe Marktplatz (Pyramide)"
+      "name" : "Karlsruhe Marktplatz (Pyramide U)"
    },
    {
       "ds100" : "RKMT",
@@ -41055,7 +41055,7 @@
          49.025938,
          8.453645
       ],
-      "name" : "Karlsruhe-Hagsfeld"
+      "name" : "Hagsfeld Bahnhof"
    },
    {
       "ds100" : "RKSR",
@@ -41694,7 +41694,7 @@
          51.358654,
          6.93311
       ],
-      "name" : "Kettwig Stausee SEV, Essen (Ruhr)"
+      "name" : "Kettwig Stausee, Essen (Ruhr)"
    },
    {
       "ds100" : "D308089",
@@ -42936,7 +42936,7 @@
          49.025215,
          8.346364
       ],
-      "name" : "Knielingen Siemens, Karlsruhe"
+      "name" : "Siemens, Karlsruhe"
    },
    {
       "ds100" : "PQKKA",
@@ -46383,7 +46383,7 @@
          51.2744,
          7.243921
       ],
-      "name" : "Langerfeld, Wuppertal"
+      "name" : "Langerfeld Markt, Wuppertal"
    },
    {
       "ds100" : "KLAW",
@@ -48048,7 +48048,7 @@
          49.097193,
          8.401099
       ],
-      "name" : "Leopoldshafen Leopoldstr."
+      "name" : "Leopoldshafen Leopoldstraße"
    },
    {
       "ds100" : "RLEV",
@@ -52035,7 +52035,7 @@
          48.193157,
          11.861509
       ],
-      "name" : "Markt Schwaben"
+      "name" : "Bahnhof, Markt Schwaben"
    },
    {
       "ds100" : "MSB",
@@ -52125,7 +52125,7 @@
          49.009576,
          8.403152
       ],
-      "name" : "Marktplatz (Kaiserstraße U), Karlsruhe"
+      "name" : "Karlsruhe Marktplatz (Kaiserstraße U)"
    },
    {
       "ds100" : "PQKMU",
@@ -52188,7 +52188,7 @@
          49.009485,
          8.405563
       ],
-      "name" : "Marktplatz, Karlsruhe"
+      "name" : "Marktplatz (Kaiserstraße U), Karlsruhe"
    },
    {
       "ds100" : "NMR",
@@ -54303,7 +54303,7 @@
          47.33136,
          15.360554
       ],
-      "name" : "Mixnitz Bärenschützklamm"
+      "name" : "Mixnitz-Bärenschützklamm"
    },
    {
       "ds100" : "XTMB",
@@ -62430,7 +62430,7 @@
          51.0662,
          7.007127
       ],
-      "name" : "Opladen, Leverkusen"
+      "name" : "Opladen Bahnhof, Leverkusen"
    },
    {
       "ds100" : "XTOPL",
@@ -84039,7 +84039,7 @@
          46.398371,
          6.927007
       ],
-      "name" : "Villeneuve(CH)"
+      "name" : "Villeneuve VD"
    },
    {
       "ds100" : "OFVIV",
